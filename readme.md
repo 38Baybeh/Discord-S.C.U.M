@@ -573,3 +573,4 @@ arandomnewaccount here - my profile is invisible because this isn't my only gith
 - easily initiate bot by doing bot = discum.Client(token)
 - sendMessage(channelID,message)
 - connectionTest() tests if your token is valid
+[![Run on Repl.it](https://repl.it/badge/github/Merubokkusu/Discord-S.C.U.M)](https://repl.it/github/Merubokkusu/Discord-S.C.U.M)
